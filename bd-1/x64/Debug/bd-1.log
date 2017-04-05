@@ -1,0 +1,4 @@
+﻿  bd-1.cpp
+c:\users\mahyar\documents\visual studio 2015\projects\bd-1\bd-1\bd-1.cpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mahyar\documents\visual studio 2015\projects\bd-1\bd-1\bd-1.cpp(19): error C2440: 'type cast': cannot convert from 'char [94]' to 'int (__cdecl *)(void)'
+  c:\users\mahyar\documents\visual studio 2015\projects\bd-1\bd-1\bd-1.cpp(19): note: There is no context in which this conversion is possible
