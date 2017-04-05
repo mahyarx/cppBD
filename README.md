@@ -1,5 +1,5 @@
 # cppBD
-Cpp Back door send information with WMI queries &amp; bypassing Firewall with Reverse TCP
+This is C++ Back door send information with WMI queries &amp; bypassing Firewall with Reverse TCP
 
 
 bd-1\bd-1.cpp
