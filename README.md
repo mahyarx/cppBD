@@ -7,4 +7,4 @@ bd-1\bd-1.cpp
     
 -------------------------------------------------------------------------------------------------------------------------------
 with the change of line 138 in bd-1.cpp you can change WMI query and send other information, now this sample code send current Processes on victim computer.
- By Default this code listenig TCP connection on Port 8888, but in line 223 you can change this Port.
+ By Default this code listening TCP connections on Port 8888, but in line 223 you can change this Port.
